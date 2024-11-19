@@ -16,8 +16,11 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar este proyecto:
    git clone https://github.com/yyami/cypressCourse.git
 
 2. Ingresa a la carpeta del proyecto:
+   ```bash
    cd cypressCourse
 
 3. Instala las dependencias necesarias:
+   ```bash
    npm run cy:open
+
 Esto abrirá el Test Runner de Cypress, donde podrás seleccionar y ejecutar las pruebas disponibles.
