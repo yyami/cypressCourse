@@ -8,7 +8,6 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar este proyecto:
 
 - [Node.js](https://nodejs.org/) (versión 18 o superior)
 - npm (que viene con Node.js)
-- npm install cypress --save-dev
 
 ## Instalación
 
