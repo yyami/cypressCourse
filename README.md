@@ -6,7 +6,7 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress.
 
 Asegúrate de tener instalado lo siguiente antes de ejecutar este proyecto:
 
-- [Node.js](https://nodejs.org/) (versión 14 o superior)
+- [Node.js](https://nodejs.org/) (versión 18 o superior)
 - npm (que viene con Node.js)
 
 ## Instalación
