@@ -20,6 +20,9 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar este proyecto:
    cd cypressCourse
 
 3. Instala las dependencias necesarias:
+      ```bash
+   npm i
+4. Ejecutar el proyecto con:
    ```bash
    npm run cy:open
 
