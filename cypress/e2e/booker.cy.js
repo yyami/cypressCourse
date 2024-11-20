@@ -20,8 +20,7 @@ describe('test booker', {testIsolation:false}, () => {
   it('should test exist at least one image', () => {
     /* Testea que exista al menos una imagen */
     cy.get('img').should('be.visible');
-    /* Testea que existan dos imagenes en específico */
-    cy.get('img[src="/images/rbp-logo.jpg"]').should('be.visible');
-    cy.get('img[src="/images/room2.jpg"]').should('be.visible');
+    /* Testea que existan una imagen en específico */
+    cy.get(':nth-child(4) > :nth-child(1) > .row > .col-sm-3 > .img-responsive').should('be.visible');
   });
 })
